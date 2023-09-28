@@ -158,7 +158,7 @@ header nav a {
 .expressive-section {
     width: 80.3125em;
     min-height: 27.5em;
-    background: url('./../img/illustration3.png') right / contain no-repeat;
+    background: url('./../img/illustration3.png') 80% / contain no-repeat;
     margin-left: auto;
     margin-top: 5.9375em;
     padding-right: 13.75em;
